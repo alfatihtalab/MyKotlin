@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyKotlin</string>
+    <string name="hello_to_the_first_app">Hello to the first app</string>
+    <string name="hello_alfatih">Hello Alfatih!</string>
+    <string name="_one_digit">1</string>
+    <string name="roll_me">Roll me</string>
+</resources>
